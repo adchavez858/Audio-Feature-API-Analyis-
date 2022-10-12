@@ -21,6 +21,16 @@ What genres are the most popular in each of the top touring cities?
 My assignment for this week:
 establish dataset of 1000 songs of random genres
 
+----------
+
+10/11 recap:
+
+discussed cleaning up dataset with ETL (narrowing down genres, tidying up names, drop duplicate songs
+back up plan for no song kick api is to focus on music over time instead of music by location
+
+Possible back up questions:
+How has the popularity of genres changed over time?
+  - are the audio features similar?
 
 
 
