@@ -32,5 +32,5 @@ Possible back up questions:
 How has the popularity of genres changed over time?
   - are the audio features similar?
 
-
+Team assignment: clean up data and dabble with machine learning
 
