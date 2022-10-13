@@ -34,3 +34,11 @@ How has the popularity of genres changed over time?
 
 Team assignment: clean up data and dabble with machine learning
 
+
+-----------
+
+10/12 recap
+further discussed Klearning models
+
+
+My assignment: start matplotlib plots
