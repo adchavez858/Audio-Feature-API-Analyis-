@@ -9,8 +9,8 @@ Module 20: Final Project
 - Create AWS Postgres DB          ***-Completed***
 - Create S3 Pipeline              ***-Completed***
   - Finished S3 Pipeline
-- Create S3 Pipeline to AWS Postgres  ***-Project Abandon***
+- Create S3 Pipeline to AWS Postgres  ***-Project Abandoned***
   - AWS Glue
     - No ability to share Postgres server with team.
-    - Abandon project.
+    - Abandoned project.
 
